@@ -6,6 +6,8 @@ public class TesteJava {
         // TTESTEE
         
         System.out.println("Hello world");
+        System.out.println("Hello MUNDOI");
+        
     }
     
 }
