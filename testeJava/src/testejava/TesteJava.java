@@ -7,6 +7,8 @@ public class TesteJava {
         
         System.out.println("Hello world");
         System.out.println("Hello MUNDOI");
+        System.out.println("Hello MUNDOI");
+        System.out.println("Hello MUNDOI");
         
     }
     
